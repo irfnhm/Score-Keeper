@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wrapper_bottom_margin">5dp</dimen>
+    <dimen name="team_a_lr">24dp</dimen>
+    <dimen name="team_a_top_margin">16dp</dimen>
+    <dimen name="text_size_score">56sp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="threefourtyfive_dp">345dp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="ninty_dp">90dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+</resources>
